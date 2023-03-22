@@ -64,4 +64,4 @@
 
 <br>
 
-![snake](https://github.com/jrcampoms82/jrcampos82/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/jrcampos82/jrcampos82/blob/output/github-contribution-grid-snake.svg)
